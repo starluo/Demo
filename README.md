@@ -18,3 +18,8 @@ code | ls -ltr
 ---
 
 ### why can NOT save
+
+
+>adsffadsf
+>
+> ls -ltr 
